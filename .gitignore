@@ -1,0 +1,81 @@
+# .gitignore
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Ignore build and distribution directories
+dist/
+build/
+
+# Ignore keys
+*.pem
+*.pub
+
+# Ignore Python specific files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+*.egg
+*.py[co]
+*.so
+
+# Ignore Java specific files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+*.mtj.tmp/
+*.tmp/
+*.bak/
+*.swp/
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.recommenders
+
+# Ignore Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Ignore Gradle specific files
+.gradle/
+build/
+
+# Ignore other files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
