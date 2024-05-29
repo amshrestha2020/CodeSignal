@@ -37,7 +37,7 @@ Each category contains a folder with solutions to the respective challenges. The
 
 1. Clone the repository:
 
-git clone https://github.com/amshrestha2020/codesignal-practice-solutions.git
+git clone [https://github.com/amshrestha2020/codesignal-practice-solutions.git](https://github.com/amshrestha2020/CodeSignal.git)
 
 2. Navigate to the desired category:
 
